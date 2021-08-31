@@ -24,3 +24,7 @@ Prueba de Desarrollo para consulta de Hospital
 _Version 1.0_ 
 * Creacion de interfaz
 * Creacion de lugar de trabajo
+
+_Version 1.1_
+* Se agrega opcion de insertar pacientes.
+* Se agrega validaciones para tipo de paciente.
